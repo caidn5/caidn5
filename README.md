@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CAI DANNI</h1>
+<h1 align="center">Hi 👋, I'm DN Cai</h1>
 <h3 align="center">A passionate data science student from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caidn5&label=Profile%20views&color=0e75b6&style=flat" alt="caidn5" /> </p>
@@ -20,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caidn5&show_icons=true&locale=en&layout=compact" alt="caidn5" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caidn5&show_icons=true&locale=en" alt="caidn5" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caidn5&" alt="caidn5" /></p>
