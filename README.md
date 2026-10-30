@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [github.com/caidn5?tab=repositories](https://github.com/caidn5?tab=repositories)
 
+- 📫 How to reach me: **e1351390@u.nus.edu**
+
 <h3 align="left">🚩 Featured work:</h3>
 
 **[agent-test](https://github.com/caidn5/agent-test)** — Automated agent testing with human judgment: authoring, execution & capture automated, verdicts left to humans.
